@@ -1,7 +1,4 @@
 # -*- encoding: utf8 -*-
-"""
-Genetics Home Reference(GHR) from MedlinePlus
-"""
 import os
 import json
 import codecs
@@ -22,7 +19,7 @@ setup(
     version=version_info['version'],
     author=version_info['author'],
     author_email=version_info['author_email'],
-    description=__doc__,
+    description=version_info['descriptoin'],
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/suqingdong/medlineplus',
