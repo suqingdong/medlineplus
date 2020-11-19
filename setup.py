@@ -1,6 +1,6 @@
 # -*- encoding: utf8 -*-
 """
-    Genetics Home Reference(GHR) from MedlinePlus
+Genetics Home Reference(GHR) from MedlinePlus
 """
 import os
 import json
@@ -12,13 +12,18 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 version_info = json.load(open(os.path.join(BASE_DIR, 'medlineplus', 'version', 'version.json')))
 
 
+long_description = codecs.open(os.path.join(BASE_DIR, 'README.md'), encoding='utf-8').read()
+install_requires = codecs.open(os.path.join(BASE_DIR, 'requirements.txt'), encoding='utf-8').read().split('\n')
+print(long_description)
+print(install_requires)
+
 setup(
     name='medlineplus',
     version=version_info['version'],
     author=version_info['author'],
     author_email=version_info['author_email'],
     description=__doc__,
-    long_description=codecs.open(os.path.join(BASE_DIR, 'README.md'), encoding='utf-8').read(),
+    long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/suqingdong/medlineplus',
     project_urls={
@@ -26,7 +31,7 @@ setup(
         'Tracker': 'https://github.com/suqingdong/medlineplus/issues',
     },
     license='BSD License',
-    install_requires=codecs.open(os.path.join(BASE_DIR, 'requirements.txt'), encoding='utf-8').read().split('\n'),
+    install_requires=install_requires,
     packages=find_packages(),
     include_package_data=True,
     entry_points={'console_scripts': [
