@@ -32,7 +32,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     entry_points={'console_scripts': [
-        'medlineplus = medlineplus.bin.__init__:cli',
+        'medlineplus = medlineplus.bin.__init__:main',
         'medlineplus-gene = medlineplus.bin.__init__:gene_cli',
         'medlineplus-condition = medlineplus.bin.__init__:condition_cli',
     ]},
@@ -43,7 +43,6 @@ setup(
         'License :: OSI Approved :: BSD License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
         'Topic :: Software Development :: Libraries'
     ]
 )
