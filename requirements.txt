@@ -1,0 +1,4 @@
+click
+prettytable
+webrequests
+simple-loggers
