@@ -30,7 +30,7 @@ class Gene(Genetics):
         
         for name in suffix_list:
             url = self.base_url + 'gene-{}/'.format(name).replace('-a', '')
-            self.logger.debug('>>> {}: {}'.format(name, url))
+            self.logger.debug('>>> crawling {}: {}'.format(name, url))
             soup = WR.get_soup(url)
             for li in soup.select('.breaklist li'):
                 if len(li.contents) != 2:

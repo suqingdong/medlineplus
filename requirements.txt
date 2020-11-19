@@ -1,4 +1,5 @@
 click
+json2xml
 prettytable
 webrequests
 simple-loggers
