@@ -1,0 +1,964 @@
+<?xml version="1.0" ?>
+<MedlinePlusConditions>
+	<item type="dict">
+		<term type="str">ZAP70-related severe combined immunodeficiency</term>
+		<abbr type="str">ZAP70-related SCID</abbr>
+		<url type="str">https://medlineplus.gov/genetics/condition/zap70-related-severe-combined-immunodeficiency/</url>
+		<description type="str">ZAP70-related severe combined immunodeficiency (SCID) is an inherited disorder that damages the immune system. ZAP70-related SCID is one of several forms of severe combined immunodeficiency, a group of disorders with several genetic causes. Children with SCID lack virtually all immune protection from bacteria, viruses, and fungi. They are prone to repeated and persistent infections that can be very serious or life-threatening. Often the organisms that cause infection in people with this disorder are described as opportunistic because they ordinarily do not cause illness in healthy people.  Infants with SCID typically experience pneumonia, chronic diarrhea, and widespread skin rashes. They also grow much more slowly than healthy children. If not treated in a way that restores immune function, children with SCID usually live only a year or two.Most individuals with ZAP70-related SCID are diagnosed in the first 6 months of life. At least one individual first showed signs of the condition later in childhood and had less severe symptoms, primarily recurrent respiratory and skin infections.</description>
+		<frequency type="str">ZAP70-related SCID is a rare disorder. Only about 20 affected individuals have been identified. The prevalence of SCID from all genetic causes combined is approximately 1 in 50,000.</frequency>
+		<causes type="str">As the name indicates, this condition is caused by mutations in the ZAP70 gene. The ZAP70 gene provides instructions for making a protein called zeta-chain-associated protein kinase. This protein is part of a signaling pathway that directs the development of and turns on (activates) immune system cells called T cells.  T cells identify foreign substances and defend the body against infection.The ZAP70 gene is important for the development and function of several types of T cells. These include cytotoxic T cells (CD8+ T cells), whose functions include destroying cells infected by viruses. The ZAP70 gene is also involved in the activation of helper T cells (CD4+ T cells). These cells direct and assist the functions of the immune system by influencing the activities of other immune system cells.Mutations in the ZAP70 gene prevent the production of zeta-chain-associated protein kinase or result in a protein that is unstable and cannot perform its function. A loss of functional zeta-chain-associated protein kinase leads to the absence of CD8+ T cells and an excess of inactive CD4+ T cells. The resulting shortage of active T cells causes people with ZAP70-related SCID to be more susceptible to infection.</causes>
+		<related_genes type="list">
+			<item type="str">ZAP70</item>
+		</related_genes>
+		<inheritance type="str">This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</inheritance>
+		<synonyms type="list">
+			<item type="str">selective T-cell defect</item>
+			<item type="str">ZAP70-related SCID</item>
+			<item type="str">zeta-associated protein 70 deficiency</item>
+		</synonyms>
+		<resources type="dict">
+			<Genetic_Testing_Information type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C1849236/</href>
+					<term type="str">Genetic Testing Registry: Combined immunodeficiency due to ZAP70 deficiency</term>
+				</item>
+			</Genetic_Testing_Information>
+			<Genetic_and_Rare_Diseases_Information_Center type="list">
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/387/zap-70-deficiency</href>
+					<term type="str">ZAP-70 deficiency</term>
+				</item>
+			</Genetic_and_Rare_Diseases_Information_Center>
+			<Patient_Support_and_Advocacy_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.diseaseinfosearch.org/</href>
+					<term type="str">Disease InfoSearch</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.org/</href>
+					<term type="str">National Organization for Rare Disorders (NORD)</term>
+				</item>
+			</Patient_Support_and_Advocacy_Resources>
+			<Research_Studies_from_ClinicalTrials.gov type="list">
+				<item type="dict">
+					<href type="str">https://clinicaltrials.gov/ct2/results?cond=&quot;ZAP70-related+severe+combined+immunodeficiency&quot;+OR+&quot;Severe+Combined+Immunodeficiency&quot;</href>
+					<term type="str">ClinicalTrials.gov</term>
+				</item>
+			</Research_Studies_from_ClinicalTrials.gov>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/176947</href>
+					<term type="str">ZETA-CHAIN-ASSOCIATED PROTEIN KINASE</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=((zap70+severe+combined+immunodeficiency)+OR+(zap70+scid)+OR+(zeta-associated+protein+70+deficiency))</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+		</resources>
+		<references type="list">
+			<item type="str">9407944</item>
+			<item type="str">11130995</item>
+			<item type="str">17003514</item>
+			<item type="str">19548248</item>
+			<item type="str">20864151</item>
+			<item type="str">18509675</item>
+			<item type="str">20301777</item>
+		</references>
+	</item>
+	<item type="dict">
+		<term type="str">Zellweger spectrum disorder</term>
+		<abbr type="str">Zellweger spectrum</abbr>
+		<url type="str">https://medlineplus.gov/genetics/condition/zellweger-spectrum-disorder/</url>
+		<description type="str">Zellweger spectrum disorder is a group of conditions that have overlapping signs and symptoms and affect many parts of the body. This group of conditions includes Zellweger syndrome, neonatal adrenoleukodystrophy (NALD), and infantile Refsum disease. These conditions were once thought to be distinct disorders but are now considered to be part of the same condition spectrum. Zellweger syndrome is the most severe form of the Zellweger spectrum disorder, NALD is intermediate in severity, and infantile Refsum disease is the least severe form. Because these three conditions are now considered one disorder, some researchers prefer not to use the separate condition names but to instead refer to cases as severe, intermediate, or mild.Individuals with Zellweger syndrome, at the severe end of the spectrum, develop signs and symptoms of the condition during the newborn period. These infants experience weak muscle tone (hypotonia), feeding problems, hearing and vision loss, and seizures. These problems are caused by the breakdown of myelin, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses. The part of the brain and spinal cord that contains myelin is called white matter. Destruction of myelin (demyelination) leads to loss of white matter (leukodystrophy). Children with Zellweger syndrome also develop life-threatening problems in other organs and tissues, such as the liver, heart, and kidneys. They may have skeletal abnormalities, including a large space between the bones of the skull (fontanelles) and characteristic bone spots known as chondrodysplasia punctata that can be seen on x-ray. Affected individuals have distinctive facial features, including a flattened face, broad nasal bridge, and high forehead. Children with Zellweger syndrome typically do not survive beyond the first year of life.People with NALD or infantile Refsum disease, which are at the less-severe end of the spectrum, have more variable features than those with Zellweger syndrome and usually do not develop signs and symptoms of the disease until late infancy or early childhood. They may have many of the features of Zellweger syndrome; however, their condition typically progresses more slowly. Children with these less-severe conditions often have hypotonia, vision problems, hearing loss, liver dysfunction, developmental delay, and some degree of intellectual disability. Most people with NALD survive into childhood, and those with infantile Refsum disease may reach adulthood. In rare cases, individuals at the mildest end of the condition spectrum have developmental delay in childhood and hearing loss or vision problems beginning in adulthood and do not develop the other features of this disorder.</description>
+		<frequency type="str">Zellweger spectrum disorder is estimated to occur in 1 in 50,000 individuals.</frequency>
+		<causes type="str">Mutations in at least 12 genes have been found to cause Zellweger spectrum disorder. These genes provide instructions for making a group of proteins known as peroxins, which are essential for the formation and normal functioning of cell structures called peroxisomes. Peroxisomes are sac-like compartments that contain enzymes needed to break down many different substances, including fatty acids and certain toxic compounds. They are also important for the production of fats (lipids) used in digestion and in the nervous system. Peroxins assist in the formation (biogenesis) of peroxisomes by producing the membrane that separates the peroxisome from the rest of the cell and by importing enzymes into the peroxisome.Mutations in the genes that cause Zellweger spectrum disorder prevent peroxisomes from forming normally. Diseases that disrupt the formation of peroxisomes, including Zellweger spectrum disorder, are called peroxisome biogenesis disorders. If the production of peroxisomes is altered, these structures cannot perform their usual functions. The signs and symptoms of Zellweger syndrome are due to the absence of functional peroxisomes within cells. NALD and infantile Refsum disease are caused by mutations that allow some peroxisomes to form.Mutations in the PEX1 gene are the most common cause of Zellweger spectrum disorder and are found in nearly 70 percent of affected individuals. The other genes associated with Zellweger spectrum disorder each account for a smaller percentage of cases of this condition.</causes>
+		<related_genes type="list">
+			<item type="str">PEX1</item>
+			<item type="str">PEX10</item>
+			<item type="str">PEX11B</item>
+			<item type="str">PEX12</item>
+			<item type="str">PEX13</item>
+			<item type="str">PEX14</item>
+			<item type="str">PEX16</item>
+			<item type="str">PEX19</item>
+			<item type="str">PEX2</item>
+			<item type="str">PEX26</item>
+			<item type="str">PEX3</item>
+			<item type="str">PEX5</item>
+			<item type="str">PEX6</item>
+		</related_genes>
+		<inheritance type="str">This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</inheritance>
+		<synonyms type="list">
+			<item type="str">cerebrohepatorenal syndrome</item>
+			<item type="str">PBD, ZSS</item>
+			<item type="str">PBD-ZSD</item>
+			<item type="str">peroxisome biogenesis disorders, Zellweger syndrome spectrum</item>
+			<item type="str">Zellweger spectrum</item>
+			<item type="str">Zellweger syndrome spectrum</item>
+			<item type="str">ZSD</item>
+		</synonyms>
+		<resources type="dict">
+			<Genetic_Testing_Information type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C3550234/</href>
+					<term type="str">Genetic Testing Registry: Neonatal adrenoleucodystrophy</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C4721541/</href>
+					<term type="str">Genetic Testing Registry: Peroxisome biogenesis disorder 1A (Zellweger)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C0282527/</href>
+					<term type="str">Genetic Testing Registry: Peroxisome biogenesis disorder 1B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C1832200/</href>
+					<term type="str">Genetic Testing Registry: Peroxisome biogenesis disorders, Zellweger syndrome spectrum</term>
+				</item>
+			</Genetic_Testing_Information>
+			<Genetic_and_Rare_Diseases_Information_Center type="list">
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/11890/peroxisome-biogenesis-disorder-zellweger-syndrome-spectrum</href>
+					<term type="str">Peroxisome biogenesis disorder-Zellweger syndrome spectrum</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/7917/zellweger-syndrome</href>
+					<term type="str">Zellweger syndrome</term>
+				</item>
+			</Genetic_and_Rare_Diseases_Information_Center>
+			<Patient_Support_and_Advocacy_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.diseaseinfosearch.org/</href>
+					<term type="str">Disease InfoSearch</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.org/</href>
+					<term type="str">National Organization for Rare Disorders (NORD)</term>
+				</item>
+			</Patient_Support_and_Advocacy_Resources>
+			<Research_Studies_from_ClinicalTrials.gov type="list">
+				<item type="dict">
+					<href type="str">https://clinicaltrials.gov/ct2/results?cond=&quot;Zellweger+syndrome+spectrum&quot;+OR+&quot;Zellweger+Syndrome&quot;+OR+&quot;Zellweger+spectrum&quot;+OR+&quot;Peroxisome+Biogenesis+Disorders&quot;</href>
+					<term type="str">ClinicalTrials.gov</term>
+				</item>
+			</Research_Studies_from_ClinicalTrials.gov>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614882</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 10A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614883</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 11A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614886</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 12A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614887</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 13A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614920</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 14B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/214100</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 1A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/601539</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 1B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/214110</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 2A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/202370</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 2B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614859</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 3A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/266510</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 3B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614862</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 4A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614866</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 5A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614870</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 6A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614872</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 7A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614876</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 8A (ZELLWEGER)</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=((zellweger+spectrum[TIAB])+OR+(zellweger+syndrome+spectrum[TIAB])+OR+(zellweger+syndrome))+AND+english[la]+AND+human[mh]+AND+&quot;last+1800+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+		</resources>
+		<references type="list">
+			<item type="str">23798008</item>
+			<item type="str">16086329</item>
+			<item type="str">22581968</item>
+			<item type="str">21031596</item>
+			<item type="str">16141001</item>
+			<item type="str">17055079</item>
+			<item type="str">20301621</item>
+			<item type="str">15679822</item>
+		</references>
+	</item>
+	<item type="dict">
+		<term type="str">Zellweger spectrum disorder</term>
+		<abbr type="str">Zellweger syndrome spectrum</abbr>
+		<url type="str">https://medlineplus.gov/genetics/condition/zellweger-spectrum-disorder/</url>
+		<description type="str">Zellweger spectrum disorder is a group of conditions that have overlapping signs and symptoms and affect many parts of the body. This group of conditions includes Zellweger syndrome, neonatal adrenoleukodystrophy (NALD), and infantile Refsum disease. These conditions were once thought to be distinct disorders but are now considered to be part of the same condition spectrum. Zellweger syndrome is the most severe form of the Zellweger spectrum disorder, NALD is intermediate in severity, and infantile Refsum disease is the least severe form. Because these three conditions are now considered one disorder, some researchers prefer not to use the separate condition names but to instead refer to cases as severe, intermediate, or mild.Individuals with Zellweger syndrome, at the severe end of the spectrum, develop signs and symptoms of the condition during the newborn period. These infants experience weak muscle tone (hypotonia), feeding problems, hearing and vision loss, and seizures. These problems are caused by the breakdown of myelin, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses. The part of the brain and spinal cord that contains myelin is called white matter. Destruction of myelin (demyelination) leads to loss of white matter (leukodystrophy). Children with Zellweger syndrome also develop life-threatening problems in other organs and tissues, such as the liver, heart, and kidneys. They may have skeletal abnormalities, including a large space between the bones of the skull (fontanelles) and characteristic bone spots known as chondrodysplasia punctata that can be seen on x-ray. Affected individuals have distinctive facial features, including a flattened face, broad nasal bridge, and high forehead. Children with Zellweger syndrome typically do not survive beyond the first year of life.People with NALD or infantile Refsum disease, which are at the less-severe end of the spectrum, have more variable features than those with Zellweger syndrome and usually do not develop signs and symptoms of the disease until late infancy or early childhood. They may have many of the features of Zellweger syndrome; however, their condition typically progresses more slowly. Children with these less-severe conditions often have hypotonia, vision problems, hearing loss, liver dysfunction, developmental delay, and some degree of intellectual disability. Most people with NALD survive into childhood, and those with infantile Refsum disease may reach adulthood. In rare cases, individuals at the mildest end of the condition spectrum have developmental delay in childhood and hearing loss or vision problems beginning in adulthood and do not develop the other features of this disorder.</description>
+		<frequency type="str">Zellweger spectrum disorder is estimated to occur in 1 in 50,000 individuals.</frequency>
+		<causes type="str">Mutations in at least 12 genes have been found to cause Zellweger spectrum disorder. These genes provide instructions for making a group of proteins known as peroxins, which are essential for the formation and normal functioning of cell structures called peroxisomes. Peroxisomes are sac-like compartments that contain enzymes needed to break down many different substances, including fatty acids and certain toxic compounds. They are also important for the production of fats (lipids) used in digestion and in the nervous system. Peroxins assist in the formation (biogenesis) of peroxisomes by producing the membrane that separates the peroxisome from the rest of the cell and by importing enzymes into the peroxisome.Mutations in the genes that cause Zellweger spectrum disorder prevent peroxisomes from forming normally. Diseases that disrupt the formation of peroxisomes, including Zellweger spectrum disorder, are called peroxisome biogenesis disorders. If the production of peroxisomes is altered, these structures cannot perform their usual functions. The signs and symptoms of Zellweger syndrome are due to the absence of functional peroxisomes within cells. NALD and infantile Refsum disease are caused by mutations that allow some peroxisomes to form.Mutations in the PEX1 gene are the most common cause of Zellweger spectrum disorder and are found in nearly 70 percent of affected individuals. The other genes associated with Zellweger spectrum disorder each account for a smaller percentage of cases of this condition.</causes>
+		<related_genes type="list">
+			<item type="str">PEX1</item>
+			<item type="str">PEX10</item>
+			<item type="str">PEX11B</item>
+			<item type="str">PEX12</item>
+			<item type="str">PEX13</item>
+			<item type="str">PEX14</item>
+			<item type="str">PEX16</item>
+			<item type="str">PEX19</item>
+			<item type="str">PEX2</item>
+			<item type="str">PEX26</item>
+			<item type="str">PEX3</item>
+			<item type="str">PEX5</item>
+			<item type="str">PEX6</item>
+		</related_genes>
+		<inheritance type="str">This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</inheritance>
+		<synonyms type="list">
+			<item type="str">cerebrohepatorenal syndrome</item>
+			<item type="str">PBD, ZSS</item>
+			<item type="str">PBD-ZSD</item>
+			<item type="str">peroxisome biogenesis disorders, Zellweger syndrome spectrum</item>
+			<item type="str">Zellweger spectrum</item>
+			<item type="str">Zellweger syndrome spectrum</item>
+			<item type="str">ZSD</item>
+		</synonyms>
+		<resources type="dict">
+			<Genetic_Testing_Information type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C3550234/</href>
+					<term type="str">Genetic Testing Registry: Neonatal adrenoleucodystrophy</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C4721541/</href>
+					<term type="str">Genetic Testing Registry: Peroxisome biogenesis disorder 1A (Zellweger)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C0282527/</href>
+					<term type="str">Genetic Testing Registry: Peroxisome biogenesis disorder 1B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C1832200/</href>
+					<term type="str">Genetic Testing Registry: Peroxisome biogenesis disorders, Zellweger syndrome spectrum</term>
+				</item>
+			</Genetic_Testing_Information>
+			<Genetic_and_Rare_Diseases_Information_Center type="list">
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/11890/peroxisome-biogenesis-disorder-zellweger-syndrome-spectrum</href>
+					<term type="str">Peroxisome biogenesis disorder-Zellweger syndrome spectrum</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/7917/zellweger-syndrome</href>
+					<term type="str">Zellweger syndrome</term>
+				</item>
+			</Genetic_and_Rare_Diseases_Information_Center>
+			<Patient_Support_and_Advocacy_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.diseaseinfosearch.org/</href>
+					<term type="str">Disease InfoSearch</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.org/</href>
+					<term type="str">National Organization for Rare Disorders (NORD)</term>
+				</item>
+			</Patient_Support_and_Advocacy_Resources>
+			<Research_Studies_from_ClinicalTrials.gov type="list">
+				<item type="dict">
+					<href type="str">https://clinicaltrials.gov/ct2/results?cond=&quot;Zellweger+syndrome+spectrum&quot;+OR+&quot;Zellweger+Syndrome&quot;+OR+&quot;Zellweger+spectrum&quot;+OR+&quot;Peroxisome+Biogenesis+Disorders&quot;</href>
+					<term type="str">ClinicalTrials.gov</term>
+				</item>
+			</Research_Studies_from_ClinicalTrials.gov>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614882</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 10A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614883</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 11A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614886</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 12A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614887</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 13A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614920</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 14B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/214100</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 1A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/601539</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 1B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/214110</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 2A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/202370</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 2B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614859</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 3A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/266510</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 3B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614862</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 4A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614866</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 5A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614870</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 6A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614872</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 7A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614876</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 8A (ZELLWEGER)</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=((zellweger+spectrum[TIAB])+OR+(zellweger+syndrome+spectrum[TIAB])+OR+(zellweger+syndrome))+AND+english[la]+AND+human[mh]+AND+&quot;last+1800+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+		</resources>
+		<references type="list">
+			<item type="str">23798008</item>
+			<item type="str">16086329</item>
+			<item type="str">22581968</item>
+			<item type="str">21031596</item>
+			<item type="str">16141001</item>
+			<item type="str">17055079</item>
+			<item type="str">20301621</item>
+			<item type="str">15679822</item>
+		</references>
+	</item>
+	<item type="dict">
+		<term type="str">D-bifunctional protein deficiency</term>
+		<abbr type="str">Zellweger-like syndrome</abbr>
+		<url type="str">https://medlineplus.gov/genetics/condition/d-bifunctional-protein-deficiency/</url>
+		<description type="str">D-bifunctional protein deficiency is a disorder that causes deterioration of nervous system functions (neurodegeneration) beginning in infancy. Newborns with D-bifunctional protein deficiency have weak muscle tone (hypotonia) and seizures. Most babies with this condition never acquire any developmental skills. Some may reach very early developmental milestones such as the ability to follow movement with their eyes or control their head movement, but they experience a gradual loss of these skills (developmental regression) within a few months. As the condition gets worse, affected children develop exaggerated reflexes (hyperreflexia), increased muscle tone (hypertonia), more severe and recurrent seizures (epilepsy), and loss of vision and hearing.  Most children with D-bifunctional protein deficiency do not survive past the age of 2. A small number of individuals with this disorder are somewhat less severely affected. They may acquire additional basic skills, such as voluntary hand movements or unsupported sitting, before experiencing developmental regression, and they may survive longer into childhood than more severely affected individuals.Individuals with D-bifunctional protein deficiency may have unusual facial features, including a high forehead, widely spaced eyes (hypertelorism), a lengthened area between the nose and mouth (philtrum), and a high arch of the hard palate at the roof of the mouth. Affected infants may also have an unusually large space between the bones of the skull (fontanelle). An enlarged liver (hepatomegaly) occurs in about half of affected individuals. Because these features are similar to those of another disorder called Zellweger syndrome (part of a group of disorders called the Zellweger spectrum), D-bifunctional protein deficiency is sometimes called pseudo-Zellweger syndrome.</description>
+		<frequency type="str">D-bifunctional protein deficiency is estimated to affect 1 in 100,000 newborns.</frequency>
+		<causes type="str">D-bifunctional protein deficiency is caused by mutations in the HSD17B4 gene. The protein produced from this gene (D-bifunctional protein) is an enzyme, which means that it helps specific biochemical reactions to take place. The D-bifunctional protein is found in sac-like cell structures (organelles) called peroxisomes, which contain a variety of enzymes that break down many different substances. The D-bifunctional protein is involved in the breakdown of certain molecules called fatty acids. The protein has two separate regions (domains) with enzyme activity, called the hydratase and dehydrogenase domains. These domains help carry out the second and third steps, respectively, of a process called the peroxisomal fatty acid beta-oxidation pathway. This process shortens the fatty acid molecules by two carbon atoms at a time until the fatty acids are converted to a molecule called acetyl-CoA, which is transported out of the peroxisomes for reuse by the cell.HSD17B4 gene mutations that cause D-bifunctional protein deficiency can affect one or both of the protein's functions; however, this distinction does not seem to affect the severity or features of the disorder. Impairment of one or both of the protein's enzymatic activities prevents the D-bifunctional protein from breaking down fatty acids efficiently. As a result, these fatty acids accumulate in the body. It is unclear how fatty acid accumulation leads to the specific neurological and non-neurological features of D-bifunctional protein deficiency. However, the accumulation may result in abnormal development of the brain and the breakdown of myelin, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses. Destruction of myelin leads to a loss of myelin-containing tissue (white matter) in the brain and spinal cord; loss of white matter is described as leukodystrophy. Abnormal brain development and leukodystrophy likely underlie the neurological abnormalities that occur in D-bifunctional protein deficiency.</causes>
+		<related_genes type="list">
+			<item type="str">HSD17B4</item>
+		</related_genes>
+		<inheritance type="str">This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</inheritance>
+		<synonyms type="list">
+			<item type="str">17-beta-hydroxysteroid dehydrogenase IV deficiency</item>
+			<item type="str">bifunctional peroxisomal enzyme deficiency</item>
+			<item type="str">DBP deficiency</item>
+			<item type="str">PBFE deficiency</item>
+			<item type="str">peroxisomal bifunctional enzyme deficiency</item>
+			<item type="str">pseudo-Zellweger syndrome</item>
+			<item type="str">Zellweger-like syndrome</item>
+		</synonyms>
+		<resources type="dict">
+			<Genetic_Testing_Information type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C0342870/</href>
+					<term type="str">Genetic Testing Registry: Bifunctional peroxisomal enzyme deficiency</term>
+				</item>
+			</Genetic_Testing_Information>
+			<Genetic_and_Rare_Diseases_Information_Center type="list">
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/4539/d-bifunctional-protein-deficiency</href>
+					<term type="str">D-bifunctional protein deficiency</term>
+				</item>
+			</Genetic_and_Rare_Diseases_Information_Center>
+			<Patient_Support_and_Advocacy_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.diseaseinfosearch.org/</href>
+					<term type="str">Disease InfoSearch</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.org/</href>
+					<term type="str">National Organization for Rare Disorders (NORD)</term>
+				</item>
+			</Patient_Support_and_Advocacy_Resources>
+			<Research_Studies_from_ClinicalTrials.gov type="list">
+				<item type="dict">
+					<href type="str">https://clinicaltrials.gov/ct2/results?cond=&quot;D-bifunctional+protein+deficiency&quot;+OR+&quot;Peroxisomal+Disorders&quot;</href>
+					<term type="str">ClinicalTrials.gov</term>
+				</item>
+			</Research_Studies_from_ClinicalTrials.gov>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/261515</href>
+					<term type="str">D-BIFUNCTIONAL PROTEIN DEFICIENCY</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=((d-bifunctional+protein+deficiency[TIAB])+OR+(dbp+deficiency[TIAB])+OR+(peroxisomal+bifunctional+enzyme+deficiency[TIAB])+OR+(pseudo-zellweger+syndrome[TIAB])+OR+(zellweger-like+syndrome[TIAB]))+AND+english[la]+AND+human[mh]+AND+&quot;last+3600+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+		</resources>
+		<references type="list">
+			<item type="str">16278854</item>
+			<item type="str">16385454</item>
+			<item type="str">23181892</item>
+			<item type="str">11165012</item>
+		</references>
+	</item>
+	<item type="dict">
+		<term type="str">ZAP70-related severe combined immunodeficiency</term>
+		<abbr type="str">zeta-associated protein 70 deficiency</abbr>
+		<url type="str">https://medlineplus.gov/genetics/condition/zap70-related-severe-combined-immunodeficiency/</url>
+		<description type="str">ZAP70-related severe combined immunodeficiency (SCID) is an inherited disorder that damages the immune system. ZAP70-related SCID is one of several forms of severe combined immunodeficiency, a group of disorders with several genetic causes. Children with SCID lack virtually all immune protection from bacteria, viruses, and fungi. They are prone to repeated and persistent infections that can be very serious or life-threatening. Often the organisms that cause infection in people with this disorder are described as opportunistic because they ordinarily do not cause illness in healthy people.  Infants with SCID typically experience pneumonia, chronic diarrhea, and widespread skin rashes. They also grow much more slowly than healthy children. If not treated in a way that restores immune function, children with SCID usually live only a year or two.Most individuals with ZAP70-related SCID are diagnosed in the first 6 months of life. At least one individual first showed signs of the condition later in childhood and had less severe symptoms, primarily recurrent respiratory and skin infections.</description>
+		<frequency type="str">ZAP70-related SCID is a rare disorder. Only about 20 affected individuals have been identified. The prevalence of SCID from all genetic causes combined is approximately 1 in 50,000.</frequency>
+		<causes type="str">As the name indicates, this condition is caused by mutations in the ZAP70 gene. The ZAP70 gene provides instructions for making a protein called zeta-chain-associated protein kinase. This protein is part of a signaling pathway that directs the development of and turns on (activates) immune system cells called T cells.  T cells identify foreign substances and defend the body against infection.The ZAP70 gene is important for the development and function of several types of T cells. These include cytotoxic T cells (CD8+ T cells), whose functions include destroying cells infected by viruses. The ZAP70 gene is also involved in the activation of helper T cells (CD4+ T cells). These cells direct and assist the functions of the immune system by influencing the activities of other immune system cells.Mutations in the ZAP70 gene prevent the production of zeta-chain-associated protein kinase or result in a protein that is unstable and cannot perform its function. A loss of functional zeta-chain-associated protein kinase leads to the absence of CD8+ T cells and an excess of inactive CD4+ T cells. The resulting shortage of active T cells causes people with ZAP70-related SCID to be more susceptible to infection.</causes>
+		<related_genes type="list">
+			<item type="str">ZAP70</item>
+		</related_genes>
+		<inheritance type="str">This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</inheritance>
+		<synonyms type="list">
+			<item type="str">selective T-cell defect</item>
+			<item type="str">ZAP70-related SCID</item>
+			<item type="str">zeta-associated protein 70 deficiency</item>
+		</synonyms>
+		<resources type="dict">
+			<Genetic_Testing_Information type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C1849236/</href>
+					<term type="str">Genetic Testing Registry: Combined immunodeficiency due to ZAP70 deficiency</term>
+				</item>
+			</Genetic_Testing_Information>
+			<Genetic_and_Rare_Diseases_Information_Center type="list">
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/387/zap-70-deficiency</href>
+					<term type="str">ZAP-70 deficiency</term>
+				</item>
+			</Genetic_and_Rare_Diseases_Information_Center>
+			<Patient_Support_and_Advocacy_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.diseaseinfosearch.org/</href>
+					<term type="str">Disease InfoSearch</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.org/</href>
+					<term type="str">National Organization for Rare Disorders (NORD)</term>
+				</item>
+			</Patient_Support_and_Advocacy_Resources>
+			<Research_Studies_from_ClinicalTrials.gov type="list">
+				<item type="dict">
+					<href type="str">https://clinicaltrials.gov/ct2/results?cond=&quot;ZAP70-related+severe+combined+immunodeficiency&quot;+OR+&quot;Severe+Combined+Immunodeficiency&quot;</href>
+					<term type="str">ClinicalTrials.gov</term>
+				</item>
+			</Research_Studies_from_ClinicalTrials.gov>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/176947</href>
+					<term type="str">ZETA-CHAIN-ASSOCIATED PROTEIN KINASE</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=((zap70+severe+combined+immunodeficiency)+OR+(zap70+scid)+OR+(zeta-associated+protein+70+deficiency))</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+		</resources>
+		<references type="list">
+			<item type="str">9407944</item>
+			<item type="str">11130995</item>
+			<item type="str">17003514</item>
+			<item type="str">19548248</item>
+			<item type="str">20864151</item>
+			<item type="str">18509675</item>
+			<item type="str">20301777</item>
+		</references>
+	</item>
+	<item type="dict">
+		<term type="str">Dyskeratosis congenita</term>
+		<abbr type="str">Zinsser-Cole-Engman syndrome</abbr>
+		<url type="str">https://medlineplus.gov/genetics/condition/dyskeratosis-congenita/</url>
+		<description type="str">Dyskeratosis congenita is a disorder that can affect many parts of the body. There are three features that are characteristic of this disorder: fingernails and toenails that grow poorly or are abnormally shaped (nail dystrophy); changes in skin coloring (pigmentation), especially on the neck and chest, in a pattern often described as &quot;lacy&quot;; and white patches inside the mouth (oral leukoplakia).People with dyskeratosis congenita have an increased risk of developing several life-threatening conditions. They are especially vulnerable to disorders that impair bone marrow function. These disorders disrupt the ability of the bone marrow to produce new blood cells. Affected individuals may develop aplastic anemia, also known as bone marrow failure, which occurs when the bone marrow does not produce enough new blood cells. They are also at higher than average risk for myelodysplastic syndrome, a condition in which immature blood cells fail to develop normally; this condition may progress to a form of blood cancer called leukemia. People with dyskeratosis congenita are also at increased risk of developing leukemia even if they never develop myelodysplastic syndrome. In addition, they have a higher than average risk of developing other cancers, especially cancers of the head, neck, anus, or genitals.People with dyskeratosis congenita may also develop pulmonary fibrosis, a condition that causes scar tissue (fibrosis) to build up in the lungs, decreasing the transport of oxygen into the bloodstream. Additional signs and symptoms that occur in some people with dyskeratosis congenita include eye abnormalities such as narrow tear ducts that may become blocked, preventing drainage of tears and leading to eyelid irritation; dental problems; hair loss or prematurely grey hair; low bone mineral density (osteoporosis); degeneration (avascular necrosis) of the hip and shoulder joints; or liver disease. Some affected males may have narrowing (stenosis) of the urethra, which is the tube that carries urine out of the body from the bladder. Urethral stenosis may lead to difficult or painful urination and urinary tract infections.The severity of dyskeratosis congenita varies widely among affected individuals. The least severely affected individuals have only a few mild physical features of the disorder and normal bone marrow function. More severely affected individuals have many of the characteristic physical features and experience bone marrow failure, cancer, or pulmonary fibrosis by early adulthood.While most people with dyskeratosis congenita have normal intelligence and development of motor skills such as standing and walking, developmental delay may occur in some severely affected individuals. In one severe form of the disorder called Hoyeraal Hreidaarsson syndrome, affected individuals have an unusually small and underdeveloped cerebellum, which is the part of the brain that coordinates movement. Another severe variant called Revesz syndrome involves abnormalities in the light-sensitive tissue at the back of the eye (retina) in addition to the other symptoms of dyskeratosis congenita.</description>
+		<frequency type="str">The exact prevalence of dyskeratosis congenita is unknown. It is estimated to occur in approximately 1 in 1 million people.</frequency>
+		<causes type="str">In about half of people with dyskeratosis congenita, the disorder is caused by mutations in the TERT, TERC, DKC1, or TINF2 gene. These genes provide instructions for making proteins that help maintain structures known as telomeres, which are found at the ends of chromosomes. In a small number of individuals with dyskeratosis congenita, mutations in other genes involved with telomere maintenance have been identified. Other affected individuals have no mutations in any of the genes currently associated with dyskeratosis congenita. In these cases, the cause of the disorder is unknown, but other unidentified genes related to telomere maintenance are likely involved.Telomeres help protect chromosomes from abnormally sticking together or breaking down (degrading). In most cells, telomeres become progressively shorter as the cell divides. After a certain number of cell divisions, the telomeres become so short that they trigger the cell to stop dividing or to self-destruct (undergo apoptosis).Telomeres are maintained by two important protein complexes called telomerase and shelterin. Telomerase helps maintain normal telomere length by adding small repeated segments of DNA to the ends of chromosomes each time the cell divides. The main components of telomerase, called hTR and hTERT, are produced from the TERC and TERT genes, respectively. The hTR component is an RNA molecule, a chemical cousin of DNA. It provides a template for creating the repeated sequence of DNA that telomerase adds to the ends of chromosomes. The function of the hTERT component is to add the new DNA segment to chromosome ends. The DKC1 gene provides instructions for making another protein that is important in telomerase function. This protein, called dyskerin, attaches (binds) to hTR and helps stabilize the telomerase complex.The shelterin complex helps protect telomeres from the cell's DNA repair process. Without the protection of shelterin, the repair mechanism would sense the chromosome ends as abnormal breaks in the DNA sequence and either attempt to join the ends together or initiate apoptosis. The TINF2 gene provides instructions for making a protein that is part of the shelterin complex.TERT, TERC, DKC1, or TINF2 gene mutations result in dysfunction of the telomerase or shelterin complexes, leading to impaired maintenance of telomeres and reduced telomere length. Cells that divide rapidly are especially vulnerable to the effects of shortened telomeres. As a result, people with dyskeratosis congenita may experience a variety of problems affecting quickly dividing cells in the body such as cells of the nail beds, hair follicles, skin, lining of the mouth (oral mucosa), and bone marrow.Breakage and instability of chromosomes resulting from inadequate telomere maintenance may lead to genetic changes that allow cells to divide in an uncontrolled way, resulting in the development of cancer in people with dyskeratosis congenita.</causes>
+		<related_genes type="list">
+			<item type="str">CTC1</item>
+			<item type="str">DKC1</item>
+			<item type="str">TERC</item>
+			<item type="str">TERT</item>
+			<item type="str">TINF2</item>
+			<item type="str">NHP2</item>
+			<item type="str">NOP10</item>
+			<item type="str">RTEL1</item>
+			<item type="str">WRAP53</item>
+		</related_genes>
+		<inheritance type="str">Dyskeratosis congenita can have different inheritance patterns.When dyskeratosis congenita is caused by DKC1 gene mutations, it is inherited in an X-linked recessive pattern. The DKC1 gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.When dyskeratosis congenita is caused by mutations in other genes, it can be inherited in an autosomal dominant or autosomal recessive pattern. Autosomal dominant means one copy of the altered gene in each cell is sufficient to cause the disorder. Autosomal recessive means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</inheritance>
+		<synonyms type="list">
+			<item type="str">Zinsser-Cole-Engman syndrome</item>
+		</synonyms>
+		<resources type="dict">
+			<Genetic_Testing_Information type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C0265965/</href>
+					<term type="str">Genetic Testing Registry: Dyskeratosis congenita</term>
+				</item>
+			</Genetic_Testing_Information>
+			<Genetic_and_Rare_Diseases_Information_Center type="list">
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/10905/dyskeratosis-congenita</href>
+					<term type="str">Dyskeratosis congenita</term>
+				</item>
+			</Genetic_and_Rare_Diseases_Information_Center>
+			<Patient_Support_and_Advocacy_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.diseaseinfosearch.org/</href>
+					<term type="str">Disease InfoSearch</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.org/</href>
+					<term type="str">National Organization for Rare Disorders (NORD)</term>
+				</item>
+			</Patient_Support_and_Advocacy_Resources>
+			<Research_Studies_from_ClinicalTrials.gov type="list">
+				<item type="dict">
+					<href type="str">https://clinicaltrials.gov/ct2/results?cond=&quot;dyskeratosis+congenita&quot;+OR+&quot;Dyskeratosis+Congenita&quot;</href>
+					<term type="str">ClinicalTrials.gov</term>
+				</item>
+			</Research_Studies_from_ClinicalTrials.gov>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/127550</href>
+					<term type="str">DYSKERATOSIS CONGENITA, AUTOSOMAL DOMINANT 1</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/613989</href>
+					<term type="str">DYSKERATOSIS CONGENITA, AUTOSOMAL DOMINANT 2</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/613990</href>
+					<term type="str">DYSKERATOSIS CONGENITA, AUTOSOMAL DOMINANT 3</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/224230</href>
+					<term type="str">DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE 1</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/613987</href>
+					<term type="str">DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE 2</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/613988</href>
+					<term type="str">DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE 3</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/615190</href>
+					<term type="str">DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE 5</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/305000</href>
+					<term type="str">DYSKERATOSIS CONGENITA, X-LINKED</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/268130</href>
+					<term type="str">REVESZ SYNDROME</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=(Dyskeratosis+Congenita[MAJR])+AND+(dyskeratosis+congenita[TIAB])+AND+english[la]+AND+human[mh]+AND+&quot;last+720+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+		</resources>
+		<references type="list">
+			<item type="str">19282459</item>
+			<item type="str">23782086</item>
+			<item type="str">20096085</item>
+			<item type="str">20008219</item>
+			<item type="str">22532422</item>
+			<item type="str">19419704</item>
+			<item type="str">23591994</item>
+			<item type="str">20882440</item>
+			<item type="str">20301779</item>
+			<item type="str">22899577</item>
+			<item type="str">19208095</item>
+			<item type="str">21205863</item>
+		</references>
+	</item>
+	<item type="dict">
+		<term type="str">Shingles</term>
+		<abbr type="str">zoster</abbr>
+		<url type="str">https://medlineplus.gov/genetics/condition/shingles/</url>
+		<description type="str">Shingles (also known as herpes zoster) results from infection by the varicella zoster virus. This common virus causes chickenpox (also known as varicella), which is characterized by itchy spots on the skin that cover the  whole body and usually occurs in childhood or adolescence. After the body fights the initial infection, the varicella zoster virus remains in nerve cells for the rest of a person's life. Because the virus is controlled by immune system cells called T cells, it is generally inactive (latent) and typically causes no health problems. However, in some people, the virus becomes active again (reactivates) and causes shingles. Shingles can occur at any age, although it is rare in childhood and becomes more common after age 50.Shingles is characterized by a severely painful, itchy, or tingling rash, most commonly on one side of the torso, although it can occur anywhere on the body. Reactivation of the virus usually occurs in a single nerve, leading to the symptoms of shingles in just the region of skin connected to that nerve. When the nerve connected to the eye and the skin surrounding it is affected, the condition is called herpes zoster ophthalmicus. This form of shingles, which accounts for about 20 percent of cases, can cause permanent vision impairment.Some individuals with shingles feel throbbing or tingling in the affected region shortly before the rash appears. Blisters form in the rash area, break open, and scab over in a few days. Healing usually takes 2 to 4 weeks. Most people have only one episode of shingles, although it can recur in rare cases.In 5 to 20 percent of people with shingles, severe pain continues in the affected region after healing of the rash, which is known as postherpetic neuralgia (PHN). PHN is the most common complication of shingles. It can also involve severe itchiness or an overactive pain response to things that do not usually cause pain (allodynia), such as a light touch. PHN can last weeks, months, or even years. The likelihood of developing PHN after shingles and its severity increase with age. The pain caused by shingles and PHN can disrupt day-to-day activities and reduce a person's quality of life.</description>
+		<frequency type="str">Because everyone infected with the varicella zoster virus is at risk of developing shingles, the condition is relatively common, particularly in older adults. Shingles occurs in 20 to 30 percent of people at some point in their lives, and about half of people over age 80 have had shingles.The risk of shingles varies by ethnic background. The condition is more common in people of non-Hispanic white ancestry than those of African American ancestry. For unknown reasons, women are more prone to develop shingles than men.A vaccine to prevent chickenpox was introduced in the United States in 1995. Since then, the incidence of chickenpox has been reduced by 76 to 85 percent. Doctors suspect the reduction of varicella zoster virus infections will reduce the incidence of shingles as the vaccinated children grow into adulthood; however, it is too early to tell. Vaccines for adults to protect against shingles and subsequent PHN have been used since 2006 and are also expected to reduce the incidence of shingles and its complications.</frequency>
+		<causes type="str">The causes of shingles are complex. Development of the condition is influenced by a combination of factors, including age, health, and genetics.The strongest risk factor for shingles is age. The varicella zoster virus is controlled by the immune system, particularly T cells that keep the virus from infecting other cells. As people age, growth and division (proliferation) of T cells are diminished, reducing the immune system's ability to control the virus, which can allow its reactivation. Health factors that impair T cells can also trigger reactivation of the varicella zoster virus. For example certain drugs, such as chemotherapies used to treat blood cancers like multiple myeloma or drugs that prevent rejection of a transplanted organ, impair the immune system and can lead to virus reactivation. Infection with human immunodeficiency virus (HIV), which infects and kills T cells, can also allow the virus to become active again. In addition, some studies suggest that emotional stress or physical trauma may be involved in virus reactivation.The role of genetics in shingles is not clear. Several studies indicate that having a family member who developed the condition increases a person's risk, suggesting a shared genetic risk factor, although other studies did not find such a link. Genes that help regulate the immune system have been found in some studies to be associated with the development of shingles or of PHN after shingles. In particular, the risk of developing PHN appears to be increased by certain variants of genes that belong to a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body's own proteins from proteins made by foreign invaders such as viruses and bacteria. It is unclear if certain HLA variations also play a role in the development of shingles.</causes>
+		<related_genes type="list">
+			<item type="str">HLA-B</item>
+			<item type="str">POLR3A</item>
+			<item type="str">STAT1</item>
+			<item type="str">STAT3</item>
+			<item type="str">HLA-A</item>
+			<item type="str">IL10</item>
+			<item type="str">POLR3C</item>
+		</related_genes>
+		<inheritance type="str">The inheritance pattern of shingles is unclear. Having a first-degree relative (such as a parent or sibling) who developed shingles appears to slightly increase the risk of developing the condition. However, shingles is relatively common in the general population, particularly among older adults, and so it would not be surprising to see more than one case in a family just by chance.</inheritance>
+		<synonyms type="list">
+			<item type="str">herpes zoster</item>
+			<item type="str">zoster</item>
+		</synonyms>
+		<resources type="dict">
+			<Genetic_and_Rare_Diseases_Information_Center type="list">
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/7525/herpes-zoster-oticus</href>
+					<term type="str">Herpes zoster oticus</term>
+				</item>
+			</Genetic_and_Rare_Diseases_Information_Center>
+			<Patient_Support_and_Advocacy_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.diseaseinfosearch.org/</href>
+					<term type="str">Disease InfoSearch</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.org/</href>
+					<term type="str">National Organization for Rare Disorders (NORD)</term>
+				</item>
+			</Patient_Support_and_Advocacy_Resources>
+			<Research_Studies_from_ClinicalTrials.gov type="list">
+				<item type="dict">
+					<href type="str">https://clinicaltrials.gov/ct2/results?cond=&quot;shingles&quot;+OR+&quot;Herpes+Zoster&quot;</href>
+					<term type="str">ClinicalTrials.gov</term>
+				</item>
+			</Research_Studies_from_ClinicalTrials.gov>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=((Herpes+Zoster[TI])+OR+(shingles[TI]))+AND+english[la]+AND+human[mh]+AND+&quot;last+360+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+		</resources>
+		<references type="list">
+			<item type="str">25664540</item>
+			<item type="str">24500927</item>
+			<item type="str">17204399</item>
+			<item type="str">25297839</item>
+			<item type="str">31696946</item>
+			<item type="str">20419815</item>
+			<item type="str">11928840</item>
+			<item type="str">21924676</item>
+			<item type="str">29202939</item>
+			<item type="str">29196796</item>
+			<item type="str">25355886</item>
+			<item type="str">28783042</item>
+			<item type="str">22118528</item>
+			<item type="str">27114460</item>
+			<item type="str">29047317</item>
+		</references>
+	</item>
+	<item type="dict">
+		<term type="str">Zellweger spectrum disorder</term>
+		<abbr type="str">ZSD</abbr>
+		<url type="str">https://medlineplus.gov/genetics/condition/zellweger-spectrum-disorder/</url>
+		<description type="str">Zellweger spectrum disorder is a group of conditions that have overlapping signs and symptoms and affect many parts of the body. This group of conditions includes Zellweger syndrome, neonatal adrenoleukodystrophy (NALD), and infantile Refsum disease. These conditions were once thought to be distinct disorders but are now considered to be part of the same condition spectrum. Zellweger syndrome is the most severe form of the Zellweger spectrum disorder, NALD is intermediate in severity, and infantile Refsum disease is the least severe form. Because these three conditions are now considered one disorder, some researchers prefer not to use the separate condition names but to instead refer to cases as severe, intermediate, or mild.Individuals with Zellweger syndrome, at the severe end of the spectrum, develop signs and symptoms of the condition during the newborn period. These infants experience weak muscle tone (hypotonia), feeding problems, hearing and vision loss, and seizures. These problems are caused by the breakdown of myelin, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses. The part of the brain and spinal cord that contains myelin is called white matter. Destruction of myelin (demyelination) leads to loss of white matter (leukodystrophy). Children with Zellweger syndrome also develop life-threatening problems in other organs and tissues, such as the liver, heart, and kidneys. They may have skeletal abnormalities, including a large space between the bones of the skull (fontanelles) and characteristic bone spots known as chondrodysplasia punctata that can be seen on x-ray. Affected individuals have distinctive facial features, including a flattened face, broad nasal bridge, and high forehead. Children with Zellweger syndrome typically do not survive beyond the first year of life.People with NALD or infantile Refsum disease, which are at the less-severe end of the spectrum, have more variable features than those with Zellweger syndrome and usually do not develop signs and symptoms of the disease until late infancy or early childhood. They may have many of the features of Zellweger syndrome; however, their condition typically progresses more slowly. Children with these less-severe conditions often have hypotonia, vision problems, hearing loss, liver dysfunction, developmental delay, and some degree of intellectual disability. Most people with NALD survive into childhood, and those with infantile Refsum disease may reach adulthood. In rare cases, individuals at the mildest end of the condition spectrum have developmental delay in childhood and hearing loss or vision problems beginning in adulthood and do not develop the other features of this disorder.</description>
+		<frequency type="str">Zellweger spectrum disorder is estimated to occur in 1 in 50,000 individuals.</frequency>
+		<causes type="str">Mutations in at least 12 genes have been found to cause Zellweger spectrum disorder. These genes provide instructions for making a group of proteins known as peroxins, which are essential for the formation and normal functioning of cell structures called peroxisomes. Peroxisomes are sac-like compartments that contain enzymes needed to break down many different substances, including fatty acids and certain toxic compounds. They are also important for the production of fats (lipids) used in digestion and in the nervous system. Peroxins assist in the formation (biogenesis) of peroxisomes by producing the membrane that separates the peroxisome from the rest of the cell and by importing enzymes into the peroxisome.Mutations in the genes that cause Zellweger spectrum disorder prevent peroxisomes from forming normally. Diseases that disrupt the formation of peroxisomes, including Zellweger spectrum disorder, are called peroxisome biogenesis disorders. If the production of peroxisomes is altered, these structures cannot perform their usual functions. The signs and symptoms of Zellweger syndrome are due to the absence of functional peroxisomes within cells. NALD and infantile Refsum disease are caused by mutations that allow some peroxisomes to form.Mutations in the PEX1 gene are the most common cause of Zellweger spectrum disorder and are found in nearly 70 percent of affected individuals. The other genes associated with Zellweger spectrum disorder each account for a smaller percentage of cases of this condition.</causes>
+		<related_genes type="list">
+			<item type="str">PEX1</item>
+			<item type="str">PEX10</item>
+			<item type="str">PEX11B</item>
+			<item type="str">PEX12</item>
+			<item type="str">PEX13</item>
+			<item type="str">PEX14</item>
+			<item type="str">PEX16</item>
+			<item type="str">PEX19</item>
+			<item type="str">PEX2</item>
+			<item type="str">PEX26</item>
+			<item type="str">PEX3</item>
+			<item type="str">PEX5</item>
+			<item type="str">PEX6</item>
+		</related_genes>
+		<inheritance type="str">This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</inheritance>
+		<synonyms type="list">
+			<item type="str">cerebrohepatorenal syndrome</item>
+			<item type="str">PBD, ZSS</item>
+			<item type="str">PBD-ZSD</item>
+			<item type="str">peroxisome biogenesis disorders, Zellweger syndrome spectrum</item>
+			<item type="str">Zellweger spectrum</item>
+			<item type="str">Zellweger syndrome spectrum</item>
+			<item type="str">ZSD</item>
+		</synonyms>
+		<resources type="dict">
+			<Genetic_Testing_Information type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C3550234/</href>
+					<term type="str">Genetic Testing Registry: Neonatal adrenoleucodystrophy</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C4721541/</href>
+					<term type="str">Genetic Testing Registry: Peroxisome biogenesis disorder 1A (Zellweger)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C0282527/</href>
+					<term type="str">Genetic Testing Registry: Peroxisome biogenesis disorder 1B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C1832200/</href>
+					<term type="str">Genetic Testing Registry: Peroxisome biogenesis disorders, Zellweger syndrome spectrum</term>
+				</item>
+			</Genetic_Testing_Information>
+			<Genetic_and_Rare_Diseases_Information_Center type="list">
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/11890/peroxisome-biogenesis-disorder-zellweger-syndrome-spectrum</href>
+					<term type="str">Peroxisome biogenesis disorder-Zellweger syndrome spectrum</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/7917/zellweger-syndrome</href>
+					<term type="str">Zellweger syndrome</term>
+				</item>
+			</Genetic_and_Rare_Diseases_Information_Center>
+			<Patient_Support_and_Advocacy_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.diseaseinfosearch.org/</href>
+					<term type="str">Disease InfoSearch</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.org/</href>
+					<term type="str">National Organization for Rare Disorders (NORD)</term>
+				</item>
+			</Patient_Support_and_Advocacy_Resources>
+			<Research_Studies_from_ClinicalTrials.gov type="list">
+				<item type="dict">
+					<href type="str">https://clinicaltrials.gov/ct2/results?cond=&quot;Zellweger+syndrome+spectrum&quot;+OR+&quot;Zellweger+Syndrome&quot;+OR+&quot;Zellweger+spectrum&quot;+OR+&quot;Peroxisome+Biogenesis+Disorders&quot;</href>
+					<term type="str">ClinicalTrials.gov</term>
+				</item>
+			</Research_Studies_from_ClinicalTrials.gov>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614882</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 10A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614883</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 11A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614886</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 12A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614887</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 13A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614920</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 14B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/214100</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 1A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/601539</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 1B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/214110</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 2A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/202370</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 2B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614859</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 3A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/266510</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 3B</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614862</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 4A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614866</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 5A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614870</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 6A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614872</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 7A (ZELLWEGER)</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/614876</href>
+					<term type="str">PEROXISOME BIOGENESIS DISORDER 8A (ZELLWEGER)</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=((zellweger+spectrum[TIAB])+OR+(zellweger+syndrome+spectrum[TIAB])+OR+(zellweger+syndrome))+AND+english[la]+AND+human[mh]+AND+&quot;last+1800+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+		</resources>
+		<references type="list">
+			<item type="str">23798008</item>
+			<item type="str">16086329</item>
+			<item type="str">22581968</item>
+			<item type="str">21031596</item>
+			<item type="str">16141001</item>
+			<item type="str">17055079</item>
+			<item type="str">20301621</item>
+			<item type="str">15679822</item>
+		</references>
+	</item>
+	<item type="dict">
+		<term type="str">Treacher Collins syndrome</term>
+		<abbr type="str">zygoauromandibular dysplasia</abbr>
+		<url type="str">https://medlineplus.gov/genetics/condition/treacher-collins-syndrome/</url>
+		<description type="str">Treacher Collins syndrome is a condition that affects the development of bones and other tissues of the face. The signs and symptoms of this disorder vary greatly, ranging from almost unnoticeable to severe. Most affected individuals have underdeveloped facial bones, particularly the cheek bones, and a very small jaw and chin (micrognathia). Some people with this condition are also born with an opening in the roof of the mouth called a cleft palate. In severe cases, underdevelopment of the facial bones may restrict an affected infant's airway, causing potentially life-threatening respiratory problems.People with Treacher Collins syndrome often have eyes that slant downward, sparse eyelashes, and a notch in the lower eyelids called an eyelid coloboma. Some affected individuals have additional eye abnormalities that can lead to vision loss. This condition is also characterized by absent, small, or unusually formed ears. Hearing loss occurs in about half of all affected individuals; hearing loss is caused by defects of the three small bones in the middle ear, which transmit sound, or by underdevelopment of the ear canal. People with Treacher Collins syndrome usually have normal intelligence.</description>
+		<frequency type="str">This condition affects an estimated 1 in 50,000 people.</frequency>
+		<causes type="str">Mutations in the TCOF1, POLR1C, or POLR1D gene can cause Treacher Collins syndrome. TCOF1 gene mutations are the most common cause of the disorder, accounting for 81 to 93 percent of all cases. POLR1C and POLR1D gene mutations cause an additional 2 percent of cases. In individuals without an identified mutation in one of these genes, the genetic cause of the condition is unknown.The proteins produced from the TCOF1, POLR1C, and POLR1D genes all appear to play important roles in the early development of bones and other tissues of the face. These proteins are involved in the production of a molecule called ribosomal RNA (rRNA), a chemical cousin of DNA. Ribosomal RNA helps assemble protein building blocks (amino acids) into new proteins, which is essential for the normal functioning and survival of cells. Mutations in the TCOF1, POLR1C, or POLR1D gene reduce the production of rRNA. Researchers speculate that a decrease in the amount of rRNA may trigger the self-destruction (apoptosis) of certain cells involved in the development of facial bones and tissues. The abnormal cell death could lead to the specific problems with facial development found in Treacher Collins syndrome. However, it is unclear why the effects of a reduction in rRNA are limited to facial development.</causes>
+		<related_genes type="list">
+			<item type="str">POLR1C</item>
+			<item type="str">POLR1D</item>
+			<item type="str">TCOF1</item>
+		</related_genes>
+		<inheritance type="str">When Treacher Collins syndrome results from mutations in the TCOF1 or POLR1D gene, it is considered an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. About 60 percent of these cases result from new mutations in the gene and occur in people with no history of the disorder in their family. In the remaining autosomal dominant cases, a person with Treacher Collins syndrome inherits the altered gene from an affected parent.When Treacher Collins syndrome is caused by mutations in the POLR1C gene, the condition has an autosomal recessive pattern of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</inheritance>
+		<synonyms type="list">
+			<item type="str">Franceschetti-Zwahlen-Klein syndrome</item>
+			<item type="str">mandibulofacial dysostosis (MFD1)</item>
+			<item type="str">Treacher Collins-Franceschetti syndrome</item>
+			<item type="str">zygoauromandibular dysplasia</item>
+		</synonyms>
+		<resources type="dict">
+			<Genetic_Testing_Information type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C0242387/</href>
+					<term type="str">Genetic Testing Registry: Treacher Collins syndrome</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/CN119605/</href>
+					<term type="str">Genetic Testing Registry: Treacher Collins syndrome 1</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C3150983/</href>
+					<term type="str">Genetic Testing Registry: Treacher Collins syndrome 2</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/conditions/C1855433/</href>
+					<term type="str">Genetic Testing Registry: Treacher Collins syndrome 3</term>
+				</item>
+			</Genetic_Testing_Information>
+			<Genetic_and_Rare_Diseases_Information_Center type="list">
+				<item type="dict">
+					<href type="str">https://rarediseases.info.nih.gov/diseases/9124/treacher-collins-syndrome</href>
+					<term type="str">Treacher Collins syndrome</term>
+				</item>
+			</Genetic_and_Rare_Diseases_Information_Center>
+			<Patient_Support_and_Advocacy_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.diseaseinfosearch.org/</href>
+					<term type="str">Disease InfoSearch</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://rarediseases.org/</href>
+					<term type="str">National Organization for Rare Disorders (NORD)</term>
+				</item>
+			</Patient_Support_and_Advocacy_Resources>
+			<Research_Studies_from_ClinicalTrials.gov type="list">
+				<item type="dict">
+					<href type="str">https://clinicaltrials.gov/ct2/results?cond=&quot;treacher+collins+syndrome&quot;</href>
+					<term type="str">ClinicalTrials.gov</term>
+				</item>
+			</Research_Studies_from_ClinicalTrials.gov>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/154500</href>
+					<term type="str">TREACHER COLLINS SYNDROME 1</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/613717</href>
+					<term type="str">TREACHER COLLINS SYNDROME 2</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/248390</href>
+					<term type="str">TREACHER COLLINS SYNDROME 3</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=(Mandibulofacial+Dysostosis[MAJR])+AND+(Treacher+Collins+syndrome[TIAB])+AND+english[la]+AND+human[mh]+AND+&quot;last+1800+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+		</resources>
+		<references type="list">
+			<item type="str">21131976</item>
+			<item type="str">16938878</item>
+			<item type="str">20301704</item>
+			<item type="str">12080178</item>
+			<item type="str">11034023</item>
+			<item type="str">19027870</item>
+			<item type="str">15340364</item>
+			<item type="str">19107148</item>
+		</references>
+	</item>
+</MedlinePlusConditions>
+

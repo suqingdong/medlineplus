@@ -1,0 +1,471 @@
+<?xml version="1.0" ?>
+<MedlinePlusGenes>
+	<item type="dict">
+		<gene type="str">ZAP70</gene>
+		<fullname type="str">zeta chain of T cell receptor associated protein kinase 70</fullname>
+		<url type="str">https://medlineplus.gov/genetics/gene/zap70/</url>
+		<function type="str">The ZAP70 gene provides instructions for making a protein called zeta-chain-associated protein kinase. This protein is part of a signaling pathway that directs the development of and turns on (activates) immune system cells called T cells. T cells identify foreign substances and defend the body against infection.The ZAP70 gene is important for the development and function of several types of T cells. These include cytotoxic T cells (CD8+ T cells), whose functions include destroying cells infected by viruses. The ZAP70 gene is also involved in the activation of helper T cells (CD4+ T cells). These cells direct and assist the functions of the immune system by influencing the activities of other immune system cells.</function>
+		<conditions type="dict">
+			<ZAP70-related_severe_combined_immunodeficiency type="str">More than 12 mutations in the ZAP70 gene have been identified in people with ZAP70-related severe combined immunodeficiency (SCID). These mutations either change single protein building blocks (amino acids) in the protein sequence or disrupt how genetic information is pieced together to make the blueprint for producing the protein.</ZAP70-related_severe_combined_immunodeficiency>
+		</conditions>
+		<synonyms type="list">
+			<item type="str">FLJ17670</item>
+			<item type="str">FLJ17679</item>
+			<item type="str">SRK</item>
+			<item type="str">STD</item>
+			<item type="str">syk-related tyrosine kinase</item>
+			<item type="str">TZK</item>
+			<item type="str">ZAP-70</item>
+			<item type="str">ZAP70_HUMAN</item>
+			<item type="str">zeta chain of T cell receptor associated protein kinase 70kDa</item>
+			<item type="str">zeta chain of T-cell receptor associated protein kinase 70</item>
+			<item type="str">zeta-chain (TCR) associated protein kinase 70kDa</item>
+			<item type="str">zeta-chain associated protein kinase 70kDa</item>
+			<item type="str">zeta-chain associated protein kinase, 70kD</item>
+		</synonyms>
+		<resources type="dict">
+			<Tests_Listed_in_the_Genetic_Testing_Registry type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/all/tests/?term=7535[geneid]</href>
+					<term type="str">Tests of ZAP70</term>
+				</item>
+			</Tests_Listed_in_the_Genetic_Testing_Registry>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=(ZAP70[TIAB])+AND+((Genes[MH])+OR+(Genetic+Phenomena[MH]))+AND+english[la]+AND+human[mh]+AND+&quot;last+1800+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/176947</href>
+					<term type="str">ZETA-CHAIN-ASSOCIATED PROTEIN KINASE</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Research_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/clinvar?term=ZAP70[gene]</href>
+					<term type="str">ClinVar</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gene/7535</href>
+					<term type="str">NCBI Gene</term>
+				</item>
+			</Research_Resources>
+		</resources>
+		<references type="list">
+			<item type="str">9407944</item>
+			<item type="str">11130995</item>
+			<item type="str">17003514</item>
+			<item type="str">19548248</item>
+			<item type="str">20864151</item>
+			<item type="str">18509675</item>
+			<item type="str">20301777</item>
+		</references>
+	</item>
+	<item type="dict">
+		<gene type="str">ZEB2</gene>
+		<fullname type="str">zinc finger E-box binding homeobox 2</fullname>
+		<url type="str">https://medlineplus.gov/genetics/gene/zeb2/</url>
+		<function type="str">The ZEB2 gene provides instructions for making a protein that plays a critical role in the formation of many organs and tissues before birth.  This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of particular genes.  Researchers have found that the ZEB2 protein is involved in chemical signaling pathways that regulate early growth and development.The ZEB2 protein is active in many types of cells before birth.  It appears to be particularly important for the development of the neural crest, which is a group of cells in the early embryo that give rise to many tissues and organs.  Neural crest cells migrate to form portions of the nervous system, glands that produce hormones (endocrine glands), pigment cells, smooth muscle and other tissues in the heart, and many tissues in the face and skull.The ZEB2 protein is also active in cells that are not derived from the neural crest.  For example, this protein is involved in the development of the digestive tract, skeletal muscles, kidneys, and other organs.</function>
+		<conditions type="dict">
+			<Mowat-Wilson_syndrome type="str">More than 180 mutations in the ZEB2 gene have been identified in people with Mowat-Wilson syndrome.  These mutations almost always inactivate one copy of the ZEB2 gene.  In some cases, the entire gene is deleted.  In other cases, mutations within the gene lead to the production of an abnormally short, nonfunctional version of the ZEB2 protein.</Mowat-Wilson_syndrome>
+			<Coloboma type="str">MedlinePlus Genetics provides information about Coloboma</Coloboma>
+		</conditions>
+		<synonyms type="list">
+			<item type="str">KIAA0569</item>
+			<item type="str">SIP-1</item>
+			<item type="str">SIP1</item>
+			<item type="str">Smad interacting-protein 1</item>
+			<item type="str">Smad-interacting protein 1</item>
+			<item type="str">SMADIP1</item>
+			<item type="str">ZEB2_HUMAN</item>
+			<item type="str">ZFHX1B</item>
+			<item type="str">zinc finger E-box-binding protein 2</item>
+			<item type="str">zinc finger homeobox 1b</item>
+		</synonyms>
+		<resources type="dict">
+			<Tests_Listed_in_the_Genetic_Testing_Registry type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/all/tests/?term=9839[geneid]</href>
+					<term type="str">Tests of ZEB2</term>
+				</item>
+			</Tests_Listed_in_the_Genetic_Testing_Registry>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=(ZEB2[TI])+OR+((SIP1[TI])+OR+(SIP-1[TI]))+AND+english[la]+AND+human[mh]+AND+&quot;last+1800+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/605802</href>
+					<term type="str">ZINC FINGER E BOX-BINDING HOMEOBOX 2</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Research_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/clinvar?term=ZEB2[gene]</href>
+					<term type="str">ClinVar</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gene/9839</href>
+					<term type="str">NCBI Gene</term>
+				</item>
+			</Research_Resources>
+		</resources>
+		<references type="list">
+			<item type="str">20301585</item>
+			<item type="str">15006694</item>
+			<item type="str">17203459</item>
+			<item type="str">17958891</item>
+			<item type="str">15121779</item>
+			<item type="str">12746390</item>
+			<item type="str">19842203</item>
+			<item type="str">24715670</item>
+			<item type="str">16053902</item>
+		</references>
+	</item>
+	<item type="dict">
+		<gene type="str">ZFP57</gene>
+		<fullname type="str">ZFP57 zinc finger protein</fullname>
+		<url type="str">https://medlineplus.gov/genetics/gene/zfp57/</url>
+		<function type="str">The protein produced from the ZFP57 gene is a member of a family called zinc finger proteins, which are involved in many cellular functions. Zinc finger proteins each contain one or more short regions called zinc finger domains. These regions include a specific pattern of protein building blocks (amino acids) and one or more charged atoms of zinc (zinc ions).Zinc finger proteins attach (bind) primarily to DNA. In most cases, these proteins attach to regions near certain genes and turn the genes on and off as needed. Proteins that bind to DNA and regulate the activity of particular genes are known as transcription factors. Some zinc finger proteins can also bind to other molecules, including RNA (a chemical cousin of DNA) and proteins.The ZFP57 protein is involved in the regulation of other genes by the addition of methyl groups, consisting of one carbon atom and three hydrogen atoms (methylation). Methylation is important in many cellular functions. These include determining whether the instructions in a particular segment of DNA are carried out or suppressed (gene silencing), regulating reactions involving proteins and lipids, and controlling the processing of chemicals that relay signals in the nervous system (neurotransmitters).</function>
+		<conditions type="dict">
+			<key name="6q24-related transient neonatal diabetes mellitus" type="str">Mutations in the ZFP57 gene cause about 10 percent of cases of 6q24-related transient neonatal diabetes mellitus, a type of diabetes that occurs in infants. This disorder results from the overactivity (overexpression) of certain genes in a region of the long (q) arm of chromosome 6 called 6q24.</key>
+		</conditions>
+		<synonyms type="list">
+			<item type="str">bA145L22</item>
+			<item type="str">bA145L22.2</item>
+			<item type="str">C6orf40</item>
+			<item type="str">TNDM1</item>
+			<item type="str">zfp-57</item>
+			<item type="str">ZFP57_HUMAN</item>
+			<item type="str">zinc finger protein 57 homolog</item>
+			<item type="str">zinc finger protein 57 homolog (mouse)</item>
+			<item type="str">zinc finger protein 698</item>
+			<item type="str">ZNF698</item>
+		</synonyms>
+		<resources type="dict">
+			<Tests_Listed_in_the_Genetic_Testing_Registry type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/all/tests/?term=346171[geneid]</href>
+					<term type="str">Tests of ZFP57</term>
+				</item>
+			</Tests_Listed_in_the_Genetic_Testing_Registry>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=(ZFP57[TIAB])+OR+((TNDM1[TIAB])+OR+(zfp-57[TIAB]))+AND+((Genes[MH])+OR+(Genetic+Phenomena[MH]))+AND+english[la]+AND+human[mh]+AND+&quot;last+3600+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/612192</href>
+					<term type="str">ZFP57 ZINC FINGER PROTEIN</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Research_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/clinvar?term=ZFP57[gene]</href>
+					<term type="str">ClinVar</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gene/346171</href>
+					<term type="str">NCBI Gene</term>
+				</item>
+			</Research_Resources>
+		</resources>
+		<references type="list">
+			<item type="str">19952737</item>
+			<item type="str">18854130</item>
+			<item type="str">18854139</item>
+			<item type="str">18622393</item>
+			<item type="str">20803656</item>
+			<item type="str">20922569</item>
+		</references>
+	</item>
+	<item type="dict">
+		<gene type="str">ZFYVE26</gene>
+		<fullname type="str">zinc finger FYVE-type containing 26</fullname>
+		<url type="str">https://medlineplus.gov/genetics/gene/zfyve26/</url>
+		<function type="str">The ZFYVE26 gene provides instructions for making a protein called spastizin, which is found in most tissues. Spastizin is important in a process called autophagy, in which worn-out cell parts and unneeded proteins are recycled within cells. Specifically, spastizin is involved in the formation and maturation of sacs called autophagosomes (or autophagic vacuoles). Autophagosomes surround materials that need to be recycled. The autophagosome then attaches (fuses) to a cell structure called a lysosome, which breaks down and recycles the materials.In addition to being involved in clearing cells of unneeded materials, spastizin also plays a role in ensuring the proper division of cells. During the final stages of cell division, spastizin participates in the process by which the dividing cells separate from one another (cytokinesis).</function>
+		<conditions type="dict">
+			<Spastic_paraplegia_type_15 type="str">More than 30 mutations in the ZFYVE26 gene have been found to cause spastic paraplegia type 15. This condition is characterized by progressive movement problems, intellectual disability, and vision problems. Many of the ZFYVE26 gene mutations that cause this condition result in a shortened spastizin protein that is quickly broken down. As a result, functional autophagosomes are not produced, autophagy cannot occur, and recycling of materials within cells is decreased. An inability to break down unneeded materials, and the subsequent accumulation of these materials in cells, leads to cell dysfunction and often cell death. The loss of cells in the brain and other parts of the body is responsible for many of the features of spastic paraplegia type 15.</Spastic_paraplegia_type_15>
+		</conditions>
+		<synonyms type="list">
+			<item type="str">FYVE domain-containing centrosomal protein</item>
+			<item type="str">FYVE-CENT</item>
+			<item type="str">KIAA0321</item>
+			<item type="str">spastizin</item>
+			<item type="str">SPG15</item>
+			<item type="str">zinc finger FYVE domain-containing protein 26</item>
+			<item type="str">zinc finger, FYVE domain containing 26</item>
+		</synonyms>
+		<resources type="dict">
+			<Tests_Listed_in_the_Genetic_Testing_Registry type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/all/tests/?term=23503[geneid]</href>
+					<term type="str">Tests of ZFYVE26</term>
+				</item>
+			</Tests_Listed_in_the_Genetic_Testing_Registry>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=(ZFYVE26[TIAB])+OR+((SPG15[TIAB])+OR+(spastizin[TIAB]))+AND+((Genes[MH])+OR+(Genetic+Phenomena[MH]))+AND+english[la]+AND+human[mh]+AND+&quot;last+2520+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/612012</href>
+					<term type="str">ZINC FINGER FYVE DOMAIN-CONTAINING PROTEIN 26</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Research_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/clinvar?term=ZFYVE26[gene]</href>
+					<term type="str">ClinVar</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gene/23503</href>
+					<term type="str">NCBI Gene</term>
+				</item>
+			</Research_Resources>
+		</resources>
+		<references type="list">
+			<item type="str">18394578</item>
+			<item type="str">24284334</item>
+			<item type="str">24030950</item>
+		</references>
+	</item>
+	<item type="dict">
+		<gene type="str">ZIC2</gene>
+		<fullname type="str">Zic family member 2</fullname>
+		<url type="str">https://medlineplus.gov/genetics/gene/zic2/</url>
+		<function type="str">The ZIC2 gene provides instructions for making a protein that plays an important role in the development of the front part of the brain (forebrain). This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of certain genes. The ZIC2 protein regulates genes involved in both early and late stages of forebrain development.</function>
+		<conditions type="dict">
+			<Nonsyndromic_holoprosencephaly type="str">More than 80 mutations in the ZIC2 gene have been found to cause nonsyndromic holoprosencephaly. This condition occurs when the brain fails to divide into two halves (hemispheres) during early development. ZIC2 gene mutations are the second most common cause of nonsyndromic holoprosencephaly. The facial features of individuals with ZIC2 gene mutations are different from those with nonsyndromic holoprosencephaly caused by mutations in other genes. These distinctive facial features include a narrowing of the head at the temples, outside corners of the eyes that point upward (upslanting palpebral fissures), large ears, a short nose with upturned nostrils, and a broad and deep space between the nose and mouth (philtrum). It is unclear how mutations in the ZIC2 gene lead to these facial features.</Nonsyndromic_holoprosencephaly>
+			<Coloboma type="str">MedlinePlus Genetics provides information about Coloboma</Coloboma>
+		</conditions>
+		<synonyms type="list">
+			<item type="str">HPE5</item>
+			<item type="str">Zic family member 2 (odd-paired Drosophila homolog)</item>
+			<item type="str">Zic family member 2 (odd-paired homolog, Drosophila)</item>
+			<item type="str">ZIC2_HUMAN</item>
+			<item type="str">Zinc finger protein of the cerebellum 2</item>
+			<item type="str">zinc finger protein ZIC 2</item>
+		</synonyms>
+		<resources type="dict">
+			<Tests_Listed_in_the_Genetic_Testing_Registry type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/all/tests/?term=7546[geneid]</href>
+					<term type="str">Tests of ZIC2</term>
+				</item>
+			</Tests_Listed_in_the_Genetic_Testing_Registry>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=(ZIC2[TIAB])+AND+((Genes[MH])+OR+(Genetic+Phenomena[MH]))+AND+english[la]+AND+human[mh]+AND+&quot;last+1800+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/603073</href>
+					<term type="str">ZIC FAMILY, MEMBER 2</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Research_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/clinvar?term=ZIC2[gene]</href>
+					<term type="str">ClinVar</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gene/7546</href>
+					<term type="str">NCBI Gene</term>
+				</item>
+			</Research_Resources>
+		</resources>
+		<references type="list">
+			<item type="str">11285244</item>
+			<item type="str">9771712</item>
+			<item type="str">17274816</item>
+			<item type="str">19177455</item>
+			<item type="str">20104595</item>
+			<item type="str">19955556</item>
+			<item type="str">20104608</item>
+			<item type="str">20301702</item>
+			<item type="str">18617531</item>
+		</references>
+	</item>
+	<item type="dict">
+		<gene type="str">ZMPSTE24</gene>
+		<fullname type="str">zinc metallopeptidase STE24</fullname>
+		<url type="str">https://medlineplus.gov/genetics/gene/zmpste24/</url>
+		<function type="str">The ZMPSTE24 gene provides instructions for making a protein that acts as a protease, which is an enzyme that cuts (cleaves) other proteins. The ZMPSTE24 protein cuts an immature version of the lamin A protein (prelamin A) at a particular location; this cleavage is an essential step in the maturation of lamin A.Mature lamin A is a component of the nuclear envelope, which is the membrane that surrounds the nucleus in cells. The nuclear envelope regulates the movement of molecules into and out of the nucleus, and researchers believe it may play a role in regulating the activity of certain genes.</function>
+		<conditions type="dict">
+			<Mandibuloacral_dysplasia type="str">At least four mutations in the ZMPSTE24 gene cause a form of mandibuloacral dysplasia called mandibuloacral dysplasia with type B lipodystrophy (MADB). This condition is characterized by a variety of signs and symptoms, which can include bone abnormalities, mottled or patchy skin coloring, and loss of fatty tissue under the skin affecting all parts of the body (type B lipodystrophy). ZMPSTE24 gene mutations that cause MADB lead to a reduction of functional ZMPSTE24 protein. As a result, prelamin A is not processed efficiently, and it builds up in cells. In addition, there is a shortage of mature lamin A. Some researchers speculate that these changes damage the nucleus, making cells more fragile. It is not known how the effects of ZMPSTE24 gene mutations relate to the specific signs and symptoms of MADB.</Mandibuloacral_dysplasia>
+			<Other_disorders type="str">Mutations in the ZMPSTE24 gene that completely eliminate the function of the ZMPSTE24 protein have been identified in newborns with a disorder called lethal restrictive dermopathy. Infants with this disorder have tight, rigid skin; underdeveloped lungs; and other abnormalities. They do not usually survive past the first week of life. Without any functional ZMPSTE24 protein, prelamin A accumulates and mature lamin A is absent; however, it is unclear how these changes lead to the severe signs and symptoms of lethal restrictive dermopathy.</Other_disorders>
+		</conditions>
+		<synonyms type="list">
+			<item type="str">CAAX prenyl protease 1 homolog</item>
+			<item type="str">FACE-1</item>
+			<item type="str">FACE1</item>
+			<item type="str">FACE1_HUMAN</item>
+			<item type="str">farnesylated proteins-converting enzyme 1</item>
+			<item type="str">HGPS</item>
+			<item type="str">prenyl protein-specific endoprotease 1</item>
+			<item type="str">PRO1</item>
+			<item type="str">STE24</item>
+			<item type="str">Ste24p</item>
+			<item type="str">zinc metalloproteinase Ste24 homolog</item>
+		</synonyms>
+		<resources type="dict">
+			<Tests_Listed_in_the_Genetic_Testing_Registry type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/all/tests/?term=10269[geneid]</href>
+					<term type="str">Tests of ZMPSTE24</term>
+				</item>
+			</Tests_Listed_in_the_Genetic_Testing_Registry>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=(ZMPSTE24[TIAB])+AND+((Genes[MH])+OR+(Genetic+Phenomena[MH]))+AND+english[la]+AND+human[mh]+AND+&quot;last+1800+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/275210</href>
+					<term type="str">RESTRICTIVE DERMOPATHY, LETHAL</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://omim.org/entry/606480</href>
+					<term type="str">ZINC METALLOPROTEINASE STE24</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Research_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/clinvar?term=ZMPSTE24[gene]</href>
+					<term type="str">ClinVar</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gene/10269</href>
+					<term type="str">NCBI Gene</term>
+				</item>
+			</Research_Resources>
+		</resources>
+		<references type="list">
+			<item type="str">20814950</item>
+			<item type="str">19453269</item>
+			<item type="str">22718200</item>
+			<item type="str">21267004</item>
+		</references>
+	</item>
+	<item type="dict">
+		<gene type="str">ZMYM2</gene>
+		<fullname type="str">zinc finger MYM-type containing 2</fullname>
+		<url type="str">https://medlineplus.gov/genetics/gene/zmym2/</url>
+		<function type="str">The ZMYM2 gene (previously known as ZNF198) provides instructions for making a protein whose function is not clearly understood. It is a member of a family of zinc finger proteins, which contain one or more short regions called zinc finger domains. The zinc finger domains in the ZMYM2 protein are thought to allow it to regulate interactions between other proteins. ZMYM2 is found in the nucleus of the cell, where it likely associates with other proteins. Through these associations, the ZMYM2 protein may be involved in repairing DNA errors, controlling gene activity, or forming structures in the nucleus called PML nuclear bodies that block the growth and division of cells and promote their self-destruction (apoptosis).</function>
+		<conditions type="dict">
+			<key name="8p11 myeloproliferative syndrome" type="str">A genetic change involving the ZMYM2 gene causes most cases of 8p11 myeloproliferative syndrome. This condition is characterized by an increased number of white blood cells (myeloproliferative disorder) and the development of lymphoma, a blood-related cancer that causes tumor formation in the lymph nodes. The myeloproliferative disorder usually develops into another form of blood cancer called acute myeloid leukemia. 8p11 myeloproliferative syndrome most commonly results from a rearrangement (translocation) of genetic material between chromosome 13 and chromosome 8. This genetic change fuses part of the ZMYM2 gene on chromosome 13 with part of the FGFR1 gene on chromosome 8. The translocation is found only in cancer cells.</key>
+		</conditions>
+		<synonyms type="list">
+			<item type="str">FIM</item>
+			<item type="str">fused in myeloproliferative disorders protein</item>
+			<item type="str">MYM</item>
+			<item type="str">RAMP</item>
+			<item type="str">rearranged in an atypical myeloproliferative disorder</item>
+			<item type="str">SCLL</item>
+			<item type="str">zinc finger MYM-type protein 2</item>
+			<item type="str">zinc finger protein 198</item>
+			<item type="str">zinc finger, MYM-type 2</item>
+			<item type="str">ZMYM2_HUMAN</item>
+			<item type="str">ZNF198</item>
+		</synonyms>
+		<resources type="dict">
+			<Tests_Listed_in_the_Genetic_Testing_Registry type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/all/tests/?term=7750[geneid]</href>
+					<term type="str">Tests of ZMYM2</term>
+				</item>
+			</Tests_Listed_in_the_Genetic_Testing_Registry>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=(ZMYM2[TIAB])+OR+(ZNF198[TIAB])+AND+((Genes[MH])+OR+(Genetic+Phenomena[MH]))+AND+english[la]+AND+human[mh]+AND+&quot;last+3600+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/602221</href>
+					<term type="str">ZINC FINGER, MYM-TYPE 2</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Research_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/clinvar?term=ZMYM2[gene]</href>
+					<term type="str">ClinVar</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gene/7750</href>
+					<term type="str">NCBI Gene</term>
+				</item>
+			</Research_Resources>
+		</resources>
+		<references type="list">
+			<item type="str">18806873</item>
+			<item type="str">20226962</item>
+			<item type="str">17027752</item>
+			<item type="str">12776193</item>
+			<item type="str">10887137</item>
+			<item type="str">9425908</item>
+		</references>
+	</item>
+	<item type="dict">
+		<gene type="str">ZNF341</gene>
+		<fullname type="str">zinc finger protein 341</fullname>
+		<url type="str">https://medlineplus.gov/genetics/gene/znf341/</url>
+		<function type="str">The ZNF341 gene provides instructions for making a transcription factor, which is a protein that attaches (binds) to specific regions of DNA and helps control the activity of particular genes. The ZNF341 protein is thought to regulate the activity of the STAT1 and STAT3 genes, controlling production of the STAT1 and STAT3 proteins, respectively. Both proteins are involved in the immune system. They control pathways in cells that help fight foreign invaders such as viruses, bacteria, and fungi. The STAT3 protein, in particular, transmits signals for the maturation of immune system cells, especially T cells and B cells. STAT3 is also involved in normal development and maintenance of bones and other tissues.Researchers suspect that the ZNF341 protein controls the activity of other genes, although they have not been identified.</function>
+		<conditions type="dict">
+			<Autosomal_dominant_hyper-IgE_syndrome type="str">At least five mutations in the ZNF341 gene have been found to cause a condition similar to autosomal dominant hyper-IgE syndrome (AD-HIES), which is a disorder of the immune system characterized by recurrent skin and lung infections and abnormally high levels of an immune system protein called immunoglobulin E (IgE) in the blood. AD-HIES is usually caused by STAT3 gene mutations and follows an autosomal dominant pattern of inheritance, which means one altered copy of the gene is sufficient to cause the disorder. In contrast, the condition caused by ZNF341 gene mutations follows an autosomal recessive pattern of inheritance, which means both copies of the gene must be altered for immune system problems to develop.</Autosomal_dominant_hyper-IgE_syndrome>
+		</conditions>
+		<synonyms type="list">
+			<item type="str">ZNF341 gene</item>
+		</synonyms>
+		<resources type="dict">
+			<Tests_Listed_in_the_Genetic_Testing_Registry type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gtr/all/tests/?term=84905[geneid]</href>
+					<term type="str">Tests of ZNF341</term>
+				</item>
+			</Tests_Listed_in_the_Genetic_Testing_Registry>
+			<Scientific_Articles_on_PubMed type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/pubmed?term=((ZNF341[TIAB])+OR+(zinc+finger+protein+341[TIAB]))+OR+(ZNF341+gene[TIAB])+AND+((Genes[MH])+OR+(Genetic+Phenomena[MH]))+AND+english[la]+AND+human[mh]+AND+&quot;last+3600+days&quot;[dp]</href>
+					<term type="str">PubMed</term>
+				</item>
+			</Scientific_Articles_on_PubMed>
+			<Catalog_of_Genes_and_Diseases_from_OMIM type="list">
+				<item type="dict">
+					<href type="str">https://omim.org/entry/618269</href>
+					<term type="str">ZINC FINGER PROTEIN 341</term>
+				</item>
+			</Catalog_of_Genes_and_Diseases_from_OMIM>
+			<Research_Resources type="list">
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/clinvar?term=ZNF341[gene]</href>
+					<term type="str">ClinVar</term>
+				</item>
+				<item type="dict">
+					<href type="str">https://www.ncbi.nlm.nih.gov/gene/84905</href>
+					<term type="str">NCBI Gene</term>
+				</item>
+			</Research_Resources>
+		</resources>
+		<references type="list">
+			<item type="str">29907691</item>
+			<item type="str">29907690</item>
+			<item type="str">30094507</item>
+		</references>
+	</item>
+</MedlinePlusGenes>
+
