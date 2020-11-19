@@ -29,7 +29,7 @@ medlineplus condition -s b -o b.condition -O xml
 ```
 
 ## Examples
-- [GHR.gene.jl]([examples](https://suqingdong.github.io/medlineplus/examples)/GHR.gene.jl)
-- [GHR.condition.jl]([examples](https://suqingdong.github.io/medlineplus/examples)/GHR.condition.jl)
-- [z.gene.xml]([examples](https://suqingdong.github.io/medlineplus/examples)/z.gene.xml)
-- [z.condition.xml]([examples](https://suqingdong.github.io/medlineplus/examples)/z.condition.xml)
+- [GHR.gene.jl](https://suqingdong.github.io/medlineplus/examples/GHR.gene.jl)
+- [GHR.condition.jl](https://suqingdong.github.io/medlineplus/examples/GHR.condition.jl)
+- [z.gene.xml](https://suqingdong.github.io/medlineplus/examples/z.gene.xml)
+- [z.condition.xml](https://suqingdong.github.io/medlineplus/examples/z.condition.xml)
